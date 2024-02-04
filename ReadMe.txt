@@ -1,0 +1,1 @@
+The task of the game: help Ex to get to the exit. Management is carried out using a joystick. When Ex touches the wall - LVL starts again. With each level, Ex becomes whiter, at lvl 8 the colors are reversed .
